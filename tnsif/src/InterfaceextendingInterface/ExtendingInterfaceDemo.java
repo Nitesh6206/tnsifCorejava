@@ -1,4 +1,4 @@
-package extendingInterface;
+package InterfaceextendingInterface;
 
 public class ExtendingInterfaceDemo implements ChildInterface {
 	// Override ChildInterface method

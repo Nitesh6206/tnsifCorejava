@@ -1,4 +1,4 @@
-package extendingInterface;
+package InterfaceextendingInterface;
 
 public interface ChildInterface extends InterfaceOne {
 	void show();
