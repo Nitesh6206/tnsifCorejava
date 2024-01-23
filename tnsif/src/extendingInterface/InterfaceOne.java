@@ -1,5 +1,5 @@
 package extendingInterface;
 
-public class InterfaceOne {
-
-}
+interface InterfaceOne{  
+	  void print();  
+	}  
